@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.exe
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.deps.json
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.runtimeconfig.json
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.dll
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\bin\Debug\netcoreapp3.1\MetodoAnonimo.pdb
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.AssemblyInfo.cs
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.dll
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.pdb
+C:\Users\HP\source\repos\MetodoAnonimo\MetodoAnonimo\obj\Debug\netcoreapp3.1\MetodoAnonimo.genruntimeconfig.cache
